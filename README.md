@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Snider 👋
 
-<!--
-**snider/snider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spend my time working on tools to keep people safe from the internet.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on https://lt.hn
+- 🌱 I’m currently learning Distrobuted Web Systems
+- 👯 I’m looking to collaborate on Cyber Security
+- 📫 How to reach me: snider@lethean.io
+- ⚡ Fun fact: I can click my tounge on the top of my mouth so loud, it always echoes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=snider&branding=false"
+/>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=snider&labels=true&branding=false"
+/>
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=snider&branding=false"
+/>
+
+
+
