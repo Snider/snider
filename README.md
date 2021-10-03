@@ -8,18 +8,3 @@ I spend my time working on tools to keep people safe from the internet.
 - 📫 How to reach me: snider@lethean.io
 - ⚡ Fun fact: I can click my tounge on the top of my mouth so loud, it always echoes.
 
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=snider&branding=false"
-/>
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=snider&labels=true&branding=false"
-/>
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=snider&branding=false"
-/>
-
-
-
