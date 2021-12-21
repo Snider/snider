@@ -8,3 +8,6 @@ I spend my time working on tools to keep people safe from the internet.
 - 📫 How to reach me: snider@lt.hn
 - ⚡ Fun fact: I can click my tounge on the top of my mouth so loud, it always echoes.
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=snider&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
