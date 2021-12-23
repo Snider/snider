@@ -10,7 +10,8 @@ I have a plan; a crazy network with interlays mapping the IPv4/IPv6 address spac
 
 It's hard to explain in words; it makes my head hurt; come back later when I can show you things.
 
-Why do I own these? id.pgp, private.pgp, public.pgp, wallet.pgp
+Why do I own these?* id.pgp, private.pgp, public.pgp, wallet.pgp
+`*not a dig at my domain registar; just every secruirty profesional who knew about the tld and did nothing`
 
 Why, Why, Why? 
 
