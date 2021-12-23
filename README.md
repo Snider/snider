@@ -16,7 +16,7 @@ Why, Why, Why?
 
 Whatever commercial world, Thank you from the Open Source Community for being crap at social responsibility, OpenPGP dks... on the way.
 
-Looking for Bears to HLOD their BTC/LTC in a little bit of LTHN too :)
+Looking for Bears to HLOD their BTC/LTC for a little bit in LTHN too :)
 
 - 🔭 I’m currently working on https://lt.hn | [Lethean Workstation](https://github.com/letheanVPN/Workstation#readme)
 - 🌱 I’m currently learning.
