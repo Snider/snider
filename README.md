@@ -11,7 +11,8 @@ I have a plan; a crazy network with interlays mapping the IPv4/IPv6 address spac
 It's hard to explain in words; it makes my head hurt; come back later when I can show you things.
 
 Why do I own these?* id.pgp, private.pgp, public.pgp, wallet.pgp
-`*not a dig at my domain registrar; just every secruirty profesional who knew about the tld and did nothing`
+
+Not a dig at my domain registrar; just every security professional who knew about the tld and did nothing; Who is watch out for us then?
 
 Why, Why, Why? 
 
