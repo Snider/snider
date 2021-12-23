@@ -12,7 +12,7 @@ It's hard to explain in words; it makes my head hurt; come back later when I can
 
 Why do I own these?* id.pgp, private.pgp, public.pgp, wallet.pgp
 
-Not a dig at my domain registrar; just every security professional who knew about the tld and did nothing; Who is watch out for us then?
+Not a dig at my domain registrar; just every security professional who knew about the tld and did nothing; Who is watching out for us? thought someone was...
 
 Why, Why, Why? 
 
