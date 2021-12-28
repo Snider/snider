@@ -25,7 +25,7 @@ Looking for Bears to HLOD their BTC/LTC for a little bit in LTHN too :)
 - 👯 I’m looking to collaborate on good ideas.
 - 📫 How to reach me: snider@lt.hn
 - ⚡ Fun fact: I can click my tongue on the top of my mouth so loud, it always echoes.
+- 
+[![image](https://user-images.githubusercontent.com/631881/147549092-9f7bb925-fe8f-45aa-9790-ae2d8619dcd3.png)](https://profile.codersrank.io/user/snider)
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=snider&badges=3&show-avatar=true"
-/>
+
