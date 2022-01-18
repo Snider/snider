@@ -2,6 +2,8 @@
 
 I'm spending my time working on tools to keep people safe from the internet; I have been designing a safer network for the past year.
 
+During my research, I made a list of [Recommend Services](https://github.com/Snider/security-research/tree/main/good-companies), Companies that are friendly to our industory.
+
 The thing is, people don't look at problems abstractly enough, the bigger picture.
 
 Lethean's DAO is now a player in Web3 as a service network, with Confidential Payments, 70+ gTLD's and a community-run Transit network to come. 
@@ -25,7 +27,7 @@ Looking for Bears to HLOD their BTC/LTC for a little bit in LTHN too :)
 - 👯 I’m looking to collaborate on good ideas.
 - 📫 How to reach me: snider@lt.hn
 - ⚡ Fun fact: I can click my tongue on the top of my mouth so loud, it always echoes.
-- 
+
 [![image](https://user-images.githubusercontent.com/631881/147549092-9f7bb925-fe8f-45aa-9790-ae2d8619dcd3.png)](https://profile.codersrank.io/user/snider)
 
 
