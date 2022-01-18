@@ -4,11 +4,9 @@ I'm spending my time working on tools to keep people safe from the internet; I h
 
 During my research, I made a list of [Recommend Services](https://github.com/Snider/security-research/tree/main/good-companies), Companies that are friendly to our industory.
 
-The thing is, people don't look at problems abstractly enough, the bigger picture.
+People don't look at problems abstractly enough, the bigger picture.
 
-Lethean's DAO is now a player in Web3 as a service network, with Confidential Payments, 70+ gTLD's and a community-run Transit network to come. 
-
-I have a plan; a crazy network with interlays mapping the IPv4/IPv6 address space into a privacy net; that can alter the OSI Layer flow mid-flight where data owners can make routing choices based on threat conditions of their zone.
+I have a plan; a crazy network, OSI-9 with interlays mapping the IPv4/IPv6 address space into Web3; this interlacing tech can alter the OSI Layer flow mid-flight where data owners can make routing choices based on threat conditions of their zone.
 
 It's hard to explain in words; it makes my head hurt; come back later when I can show you things.
 
