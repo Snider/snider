@@ -27,6 +27,5 @@ Looking for Bears to HLOD their BTC/LTC for a little bit in LTHN too :)
 - ⚡ Fun fact: I can click my tongue on the top of my mouth so loud, it always echoes*. 
 EDIT: `tnx to my son; we know it's 96db and louder than his boy scream 😏`
 
-[![image](https://user-images.githubusercontent.com/631881/147549092-9f7bb925-fe8f-45aa-9790-ae2d8619dcd3.png)](https://profile.codersrank.io/user/snider)
-
+![image](https://user-images.githubusercontent.com/631881/151739883-93137c42-a0cc-47de-b3d9-d60c12e9a445.png)
 
