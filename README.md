@@ -2,6 +2,8 @@
 
 I'm spending my time working on tools to keep people safe from the internet; I have been designing a safer network for the past year.
 
+I am the project leader for Lethean Community Interest Company, a social enterprise using distributed confidential ledger technology to provide secure networking for home users and SME's.
+
 Code stats: https://profile.codersrank.io/user/snider
 
 - 🔭 I’m currently working on https://lt.hn | [Lethean Desktop](https://github.com/letheanVPN/desktop#readme)
