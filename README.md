@@ -2,7 +2,8 @@
 
 I'm working on tools to protect people from the internet.
 
-Code stats: https://profile.codersrank.io/user/snider
+Code stats: https://profile.codersrank.io/user/snider \
+<a rel="me" href="https://lt.hn/@snider">Mastodon</a>
 
 - 🔭 I’m currently working on https://lt.hn | [Lethean Desktop](https://github.com/letheanVPN/desktop#readme)
 - 🌱 I’m currently learning.
