@@ -1,12 +1,8 @@
 ### Hi, I'm Snider 👋
 
-I'm working on tools to protect people from the internet.
+I'm work on open-source tools to protect people.
 
-Code stats: https://profile.codersrank.io/user/snider \
-<a rel="me" href="https://lt.hn/@snider">Mastodon</a>
-
-- 🔭 I’m currently working on https://lt.hn | [Lethean Desktop](https://github.com/letheanVPN/desktop#readme)
-- 🌱 I’m currently learning.
-- 👯 I’m looking to collaborate on good ideas.
-- 📫 How to reach me: https://twitter.com/snider_dev
+- 🔭 I’m currently working on [Lethean Network](https://lt.hn)
+- 📫 How to reach me: You don't, I reach you.
 - ⚡ Fun fact: I can click my tongue on the top of my mouth so loud, it always echoes
+- 📖 Favourate Book: [As a Man Thinketh - James Allen 1902](https://james-allen.in1woord.nl/?text=as-a-man-thinketh)
