@@ -7,5 +7,3 @@ I'm work on open-source tools to protect people.
 - ⚡ Fun fact: I can click my tongue on the top of my mouth so loud, it always echoes
 - 📖 Favourate Book: [As a Man Thinketh - James Allen 1902](https://james-allen.in1woord.nl/?text=as-a-man-thinketh)
 
-<img width="960" height="436" alt="image" src="https://github.com/user-attachments/assets/e0e00223-2e59-4403-8581-fa8351366ea6" />
-
