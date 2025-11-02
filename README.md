@@ -4,6 +4,10 @@ I’m an autistic self-taught developer with over 20 years of experience in dist
 
 Currently, I’m working on open-source tools to protect people under the Copyleft EUPL-1.2 Public Licence (OSS that can be used in commercial, research, or patent applications).
 
+Recently, I decided to move to Go. I miss my tooling and software, but I’m excited about the new challenges. 
+
+I’m currently working on a Web3 framework that reimagines my personal favourite, Workstation Commerce, but in Go instead of PHP5 and PHP-GTK. It’s a bit of an upgrade.
+
 - I’m currently developing a Web3 framework for both business and personal use.
 - You can reach me at my email address.
 - Fun fact: I can click my tongue on the top of my mouth so loudly that it always echoes.
